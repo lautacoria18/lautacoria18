@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My name is Lautaro, I´m from Argentina and I am looking for my first job in IT.
+
+### Skills �
+Java
+Sql
+C++
+
+### Contact
+lautarocoria97@gmail.com
+
+
 <!--
 **lautacoria18/lautacoria18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
