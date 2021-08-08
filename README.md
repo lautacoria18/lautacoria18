@@ -2,12 +2,12 @@
 
 My name is Lautaro, I´m from Argentina and I am looking for my first job in IT.
 
-### Skills �
-Java
-Sql
-C++
+### Skills ⚡
+- Java
+- Javascript
+- C++
 
-### Contact
+### Contact 📫
 lautarocoria97@gmail.com
 
 
